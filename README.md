@@ -1,0 +1,1 @@
+Este repositorio contiene diferentes pruebas de normalidad (Good fitness test) para algunos descriptores  del conjunto de datos "12960CellImages_WithOutliers_140Sel_LauraP_paper.mat" generado el 30 de Junio de 2016, el cual contiene los mejores 140 descriptores seleccionados mediante informacion mutua con el criterio CMIM. 
