@@ -2,7 +2,7 @@
 %Script to analyze several fitness test of normality
 clear 
 %Loading the specific dataset
-load('16213CellImages_WithOutliers_140Sel_LauraP_paper.mat')
+load('12960CellImages_WithOutliers_140Sel_LauraP_paper.mat')
 
 % A good example of normal distribution is the feature 4 (C_kurtoPgra_cel)
 % only for LLC
