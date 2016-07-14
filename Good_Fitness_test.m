@@ -11,7 +11,7 @@ load('12960CellImages_WithOutliers_140Sel_LauraP_paper.mat')
 
 Nfeat = 4;
 idx = inputTable.identidad == 'LLC'; %For only an identity
-pfeature = inputTable{idx,Nfeat+8}; %Particular feature
+% pfeature = inputTable{idx,Nfeat+8}; %Particular feature
 
 figure, histfit(pfeature,64), title( [inputTable.Properties.VariableNames{Nfeat+8} ...
     ' histogram with superimposed fitted normal density'], 'Interpreter', 'none' )
